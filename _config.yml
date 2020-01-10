@@ -28,7 +28,7 @@ twitter_username: zhouhuahui
 github_username:  crazhou
 
 # Build settings
-theme: minima
+theme: slate
 plugins:
   - jekyll-feed
 
