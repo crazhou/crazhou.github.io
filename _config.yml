@@ -23,12 +23,12 @@ email: crazhou@163.com
 description: >- # this means to ignore newlines until "baseurl:"
   生活就是要不断的折腾，才知道是怎么回事
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://crazhou.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zhouhuahui
 github_username:  crazhou
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
